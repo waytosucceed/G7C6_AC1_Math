@@ -1,0 +1,62 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "A unit fraction is defined as a fraction where the numerator is:",
+      "options": [
+          "Any number",
+          "Greater than the denominator",
+          "Equal to 1",
+          "Equal to the denominator"
+      ],
+      "correct": 2,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Identify the improper fraction:",
+      "options": [
+          "2/5",
+          "4/9",
+          "8/7",
+          "5/6"
+      ],
+      "correct": 2,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Which of the following is a proper fraction?",
+      "options": [
+          "50/30",
+          "70/60",
+          "30/40",
+          "90/80"
+      ],
+      "correct": 2,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Which of the following pairs are like fractions?",
+      "options": [
+          "3/4 and 2/3",
+          "1/6 and 5/6",
+          "7/8 and 2/5",
+          "4/7 and 3/8"
+      ],
+      "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Identify the unlike fractions from the following options:",
+      "options": [
+          "11/41 and 13/41",
+          "15/66 and 11/66",
+          "13/87 and 15/87",
+          "12/35 and 13/53"
+      ],
+      "correct": 3,
+      "img": "./assests/images/5.jpg"
+  }
+]
